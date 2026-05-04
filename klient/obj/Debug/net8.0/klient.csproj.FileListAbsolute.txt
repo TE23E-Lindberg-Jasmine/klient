@@ -12,3 +12,4 @@ C:\Users\Jasmine.lindberg1\Documents\Prog 2\klient\klient\obj\Debug\net8.0\refin
 C:\Users\Jasmine.lindberg1\Documents\Prog 2\klient\klient\obj\Debug\net8.0\klient.pdb
 C:\Users\Jasmine.lindberg1\Documents\Prog 2\klient\klient\obj\Debug\net8.0\klient.genruntimeconfig.cache
 C:\Users\Jasmine.lindberg1\Documents\Prog 2\klient\klient\obj\Debug\net8.0\ref\klient.dll
+C:\Users\Jasmine.lindberg1\Documents\Prog 2\klient\klient\obj\Debug\net8.0\klient.sourcelink.json
